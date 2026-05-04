@@ -104,3 +104,6 @@ notebooks/hello.png
 # venvs
 .venv/
 venv/
+
+# test scripts folder
+test_scripts/
